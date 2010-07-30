@@ -71,7 +71,7 @@ class Dry_accessible_captcha
     	$lw = '';
     	$rw = '';
     	
-    	$LANG->fetch_language_file('accessible_captcha');
+    	$LANG->fetch_language_file('dry_accessible_captcha');
     	
     	$EXT->end_script = TRUE;
 
